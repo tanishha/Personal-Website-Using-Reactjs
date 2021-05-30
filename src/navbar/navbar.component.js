@@ -18,7 +18,6 @@ export const NavbarComponent = () => {
           <div className="text-center">
             <div
               className="author-img"
-              style={{ backgroundImage: "url(images/pic.jpg)" }}
             />
             <h1 id="colorlib-logo">
               <a href="index.html">Tanisha Chaudhary</a>
